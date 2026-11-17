@@ -1,4 +1,4 @@
-# ZIF (ZIF Is File-vault) & The E27 Cipher
+# ZIF (ZIF Is File-vault)
 
 **ZIF** is a zero-dependency command-line utility written in Go that compresses and encrypts files or directories into a single `.zif` vault. It is powered by **E27**, an experimental, Enigma-inspired 512-bit cryptographic permutation operating in a sponge/duplex mode for authenticated encryption, paired with a custom memory-hard key derivation function.
 
