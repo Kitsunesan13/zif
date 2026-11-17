@@ -116,7 +116,7 @@ Verifies MDS invertibility (12,869 submatrices), rotor S-box quality, 4,000-tria
 
 A comprehensive 70-page technical monograph (in Indonesian) analyzing the mathematical formalization, configuration-space combinatorics, empirical benchmarks, source-code audit findings, and comparisons with Enigma and modern standards is available in the `docs/` directory:
 
-- [`docs/Dokumentasi_ZIF_E27.pdf`](docs/Dokumentasi_ZIF_E27.pdf)
+- [`docs/ZIF_E27.pdf`](https://drive.google.com/file/d/1hYqwFuFbZgL-fYZEq7CKG9ZUtedOYBjN/view?usp=drive_link)
 
 ## 🤝 Contributing & Cryptanalysis
 
