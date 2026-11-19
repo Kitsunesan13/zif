@@ -114,9 +114,9 @@ Verifies MDS invertibility (12,869 submatrices), rotor S-box quality, 4,000-tria
 
 ## 📚 Documentation & Research Paper
 
-Documentation explaining the algorithm (in Indonesian) is available in the docs/ directory:
+A comprehensive technical monograph analyzing the mathematical formalization, configuration-space combinatorics, empirical benchmarks, source-code audit findings, and comparisons with Enigma and modern standards is available in the [`docs/`] directory:
 
-- [`docs/ZIF_E27.pdf`](https://drive.google.com/file/d/1drt-zj8Cau3S8DFXCeE193xFfs536xW2/view?usp=sharing)
+- [`docs/ZIF_E27.pdf`](https://drive.google.com/file/d/1hYqwFuFbZgL-fYZEq7CKG9ZUtedOYBjN/view?usp=drive_link)
 
 ## 🤝 Contributing & Cryptanalysis
 
